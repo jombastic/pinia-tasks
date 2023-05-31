@@ -1,18 +1,8 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "title": "play gloomhaven",
-      "isFav": true
-    },
-    {
-      "title": "become an eldern lord",
-      "isFav": true,
-      "id": 3
-    },
-    {
       "title": "play with Kira",
-      "isFav": true,
+      "isFav": false,
       "id": 4
     }
   ]
